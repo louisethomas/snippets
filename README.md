@@ -1,2 +1,2 @@
 # snippets
-Collection of random scripts I use
+Collection of random scripts
